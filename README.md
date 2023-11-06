@@ -28,8 +28,8 @@ public static void main(String...args) throws OrtException {
 
 1、github：https://github.com/jiangnanboy
 
-2、博客：https://www.cnblogs.com/little-horse/
+2、blog：https://www.cnblogs.com/little-horse/
 
-3、邮件:2229029156@qq.com
+3、e-mail:2229029156@qq.com
 
 
