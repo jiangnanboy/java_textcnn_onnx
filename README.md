@@ -11,6 +11,8 @@ java is used to load the onnx format model of textcnn
 4.inference and prediction (src/main/java/Inference)
 
 ### example
+(text binary classification)
+
 predict：src/main/java/Inference
 ```
 public static void main(String...args) throws OrtException {
