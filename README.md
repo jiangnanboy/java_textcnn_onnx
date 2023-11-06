@@ -1,7 +1,7 @@
-#### java_textcnn_onnx
+### java_textcnn_onnx
 java is used to load the onnx format model of textcnn
 
-#### step
+### step
 1.after training the textcnn model, convert it to onnx format (src/main/resource/model.onnx)
 
 2.extract token mapping dict (src/main/resources/token.txt)
@@ -10,7 +10,7 @@ java is used to load the onnx format model of textcnn
 
 4.inference and prediction (src/main/java/Inference)
 
-#### example
+### example
 predict：src/main/java/Inference
 ```
 public static void main(String...args) throws OrtException {
@@ -22,7 +22,7 @@ public static void main(String...args) throws OrtException {
     }
 ```
 
-#### contact
+### contact
 
 1、github：https://github.com/jiangnanboy
 
